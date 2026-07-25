@@ -30,9 +30,6 @@
 
 📊 Working with data and analytics
 
-⚡ Love automation and beautiful code
-
-☕ Powered by coffee and curiosity
 
 ---
 
